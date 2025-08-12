@@ -4,7 +4,8 @@ A responsive and user-friendly weather application built with **React.js**, **Ta
 It provides real-time weather updates based on user location or searched cities, with a sleek and minimal UI.
 
 ---
-
+![Weather App Screenshot](./public/screenshots/image.png)
+---
 ##  Features
 - 🌍 **Location-based Weather** – Get weather updates based on your current location.
 - 🔍 **City Search** – Search and view weather for any city worldwide.
