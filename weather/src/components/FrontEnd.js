@@ -86,7 +86,7 @@ function FrontEnd() {
       navigator.geolocation.getCurrentPosition((pos) => {
         let lat = pos.coords.latitude;
         let lon = pos.coords.longitude;
-        const apiKey = "AIzaSyDdPGm5bLaSajx0TdIThFSjeEoAkU3ppyI";
+        const apiKey = process.env.REACT_APP_GOOGLE_MAPS_API_KEY;
 
         fetch(
           `https://maps.googleapis.com/maps/api/geocode/json?latlng=${lat},${lon}&key=${apiKey}`
