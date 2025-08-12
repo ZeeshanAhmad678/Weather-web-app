@@ -1,4 +1,4 @@
-# 🌦 React Weather App
+#  React Weather App
 
 A responsive and user-friendly weather application built with **React.js**, **Tailwind CSS**, and the **Weather API**.  
 It provides real-time weather updates based on user location or searched cities, with a sleek and minimal UI.
