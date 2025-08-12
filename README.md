@@ -5,7 +5,7 @@ It provides real-time weather updates based on user location or searched cities,
 
 ---
 
-## 🚀 Features
+##  Features
 - 🌍 **Location-based Weather** – Get weather updates based on your current location.
 - 🔍 **City Search** – Search and view weather for any city worldwide.
 - 📱 **Responsive Design** – Works seamlessly on mobile, tablet, and desktop.
@@ -29,4 +29,7 @@ It provides real-time weather updates based on user location or searched cities,
 git clone https://github.com/ZeeshanAhmad678/Weather-web-app.git
 cd weather
 npm install
+create .env file and add the following with your api keys:
+    REACT_APP_WEATHER_API_KEY=your_weather_api_key_here
+    REACT_APP_GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
 npm start
