@@ -27,6 +27,6 @@ It provides real-time weather updates based on user location or searched cities,
 1. **Clone the repository**
 ```bash
 git clone https://github.com/ZeeshanAhmad678/Weather-web-app.git
-cd Weather-web-app
+cd weather
 npm install
 npm start
